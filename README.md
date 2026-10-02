@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Charan Kumar 👋
 
-<!--
-**charan45-lab/charan45-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech Information Technology student
 
-Here are some ideas to get you started:
+💻 Interested in Python and Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+
+* Python
+* Data Structures and Algorithms
+* HTML, CSS and JavaScript
+* Full-Stack Web Development
+
+📚 Preparing for GATE and software development placements.
+
+🚀 Projects:
+
+* AI Placement Strategy Generator (in development)
+
+🎯 Goals:
+
+* Improve my problem-solving skills
+* Build practical software projects
+* Improve my communication skills
+* Become a software developer
+
+📫 Connect with me on linkedin.com/in/charan-kumar-dharmishetti-371631307
