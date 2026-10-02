@@ -1,6 +1,6 @@
 # Hi, I'm Charan Kumar 👋
 
-🎓 Final-year B.Tech Information Technology student
+🎓 Final-year B.Tech Computer Science student
 
 💻 Interested in Python and Full-Stack Development
 
